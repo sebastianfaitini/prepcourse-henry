@@ -1,1 +1,2 @@
-esta es una prueba de como crear un repositorio en github y clonarlo en mi escritorio
+sebastian faitini
+ARCHIVO clonado de github a mi compu y editado desde VSC
