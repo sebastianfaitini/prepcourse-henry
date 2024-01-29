@@ -1,0 +1,3 @@
+sebastian
+edad 002
+altura 1.9
